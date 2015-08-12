@@ -1,2 +1,7 @@
 When I initialize a repository I find a subfolder in the parentfolder named .git in which there is all the information about the repository and the commits etc.
 The staging area is where we create, make, change.. files but we don't necessarily save them and even if we do we don't necessarily add them/commit them to the repository. A working directory is just the folder with all the files in it.
+I can use git diff in order to view the changes between the working stage and the last commit checkout. This way I can view and be sure about all of my modifyings before commiting.
+Branches maybe usefull to continue from a certain point in time at the progress of the project and try different things and so on. It's good for orginazing history of a project.
+The diagrams helped me understand the idea of branch because it is very graphical and visual way to describe it.
+After merging 2 branches together you can get the features and setting which were added from both versions into 1 version. Presenting it in a diagram like sarah did is good in order to understand it visually.
+Git's automatic merging is good when adding new features to a project but sometimes 2 different edits of a file are implemented, these edits can conflict too much and git will print errors in these files.
