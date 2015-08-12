@@ -1,0 +1,2 @@
+When I initialize a repository I find a subfolder in the parentfolder named .git in which there is all the information about the repository and the commits etc.
+The staging area is where we create, make, change.. files but we don't necessarily save them and even if we do we don't necessarily add them/commit them to the repository. A working directory is just the folder with all the files in it.
