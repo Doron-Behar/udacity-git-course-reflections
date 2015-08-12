@@ -1,0 +1,5 @@
+It was a very usefull knowledge piece of information I learned to use the diff command.
+If you can view the history of a file, the previous versions you can compare and debbug the errors you get if you are a programmer.
+Because in google docs format expexted to be a format for word processing all the information in the file is held in one file and not more than 1.
+if you command "git log" you are able to view all the changes that were made to the repository. This way, you use afterwards "git diff" in order to view the differences between the repository versions.
+if you are using version control, you have no reason to affraid try out new things and try adding unexperienced code to the repository because at any time you can go back to an older commit and go on rom there
